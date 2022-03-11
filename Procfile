@@ -1,1 +1,0 @@
-web: gunicorn sdnantwr.wsgi --log-file -
