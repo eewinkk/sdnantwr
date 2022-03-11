@@ -163,8 +163,6 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media').replace('//', '/')
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-django_heroku.settings(locals())
-
 # Setingan untuk Jazzmin dashboard
 JAZZMIN_SETTINGS = {
     # title of the window (Will default to current_admin_site.site_title if absent or None)
