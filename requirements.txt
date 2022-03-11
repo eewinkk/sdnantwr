@@ -2,13 +2,14 @@ asgiref==3.5.0
 astroid==2.9.3
 colorama==0.4.4
 distlib==0.3.4
-Django==4.0.3
+Django
 django-jazzmin==2.4.9
 django-phonenumber-field==6.1.0
 filelock==3.6.0
 isort==5.10.1
 lazy-object-proxy==1.7.1
 mccabe==0.6.1
+mysqlclient==2.1.0
 phonenumbers==8.12.44
 phonenumberslite==8.12.44
 Pillow==9.0.1
